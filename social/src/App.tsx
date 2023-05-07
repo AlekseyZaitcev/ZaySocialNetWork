@@ -10,7 +10,7 @@ function App() {
       <Route path="/" element={<HomePage />} />
       <Route path="/message" element={<Message />} />
       <Route path="/friends" element={<Friends />} />
-      <Route path="*" element={<NotFoundPage />}></Route>
+      <Route path="*" element={<NotFoundPage />} />
     </Routes>
   );
 }
