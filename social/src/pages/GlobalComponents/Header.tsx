@@ -122,7 +122,6 @@ function Header() {
                 sx={{
                   fontFamily: "monospace",
                   fontSize: "16px",
-                  my: 2,
                   color: "white",
                   display: "block",
                   pr: "10px",
